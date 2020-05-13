@@ -1,17 +1,17 @@
 [
-	{
+	{	
+		"id": "1",
 		"img": "img/mydevportfolio.png", 
 		"title": "MyDevPortfol.io", 
 	    "summary": "A web application to help developers and programmers build beautifully designed portfolios in minutes", 
 	    "link": "", 
-	    "skill_set": "Skills and Technology"
 	},
-	{
+	{	
+		"id": "1",
 		"img": "img/mydevportfolio.png", 
 		"title": "MyDevPortfolio.io", 
 	    "summary": "A web application to help developers and programmers build beautifully designed portfolios in minutes", 
 	    "link": "", 
-	    "skill_set": "Skills and Technology"
 	}
 
 ]
