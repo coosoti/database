@@ -3,13 +3,13 @@
 	"title": "My Personal Study Notes",
 	"link": "https://coosoti.github.io/database/tutorials.json",
 	"description": "Just form your own opinion but this is the best I can do",
-	"tutorials":[
+	"items":[
 		{
 			"id": "1",
 			"img": "img/mydevportfolio.png", 
 			"title": "MyDevPortfol.io", 
 	    	"summary": "A web application to help developers and programmers build beautifully designed portfolios in minutes", 
-	    	"link": "", 
+	    	"link": "https:\/\/www.flickr.com\/photos\/perfectdayjosep\/49893134358\/", 
 		},
 		{
 			"id": "2",
